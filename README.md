@@ -2,7 +2,7 @@
 코딩테스트 대비를 위한 알고리즘 스터디입니다.
 
 ## 진행 방법
-1. [멘토](https://github.com/dkswnkk)가 매주 특정 알고리즘에 대해 설명
+1. [멘토(안주형)](https://github.com/dkswnkk)가 매주 특정 알고리즘에 대해 설명
 2. 멘토는 설명한 문제를 [백준 문제집](https://www.acmicpc.net/group/14488)에 올릴 예정
 3. 멘티는 문제집의 문제들을 풀이
 4. 멘티들은 푼 문제들을 [깃허브](https://github.com/donga-it-club/Algorithm-Study) 커밋 혹은 블로그 포스팅
