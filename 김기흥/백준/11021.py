@@ -5,3 +5,5 @@ for i in range(T):
   C.append(A+B)
 for i in range(T):
   print("Case #%d: %d" %(i+1,C[i]))
+
+  
