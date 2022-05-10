@@ -10,3 +10,5 @@ for i in range(N):
     print("does not matter")
   else:
     print("advertise")
+
+    
