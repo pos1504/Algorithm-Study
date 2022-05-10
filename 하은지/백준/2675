@@ -1,0 +1,32 @@
+def NewString(T, list):
+    # [1] value 슬라이딩 후 동시에 변수 정의 및 초기화
+    if len(T.split()) == 1:
+        return 0
+    else:
+        R, S = T.split()
+        R    = int(R)
+        
+
+    # [2] 빈 리스트(list)에 저장 
+    for i in S:
+        for _ in range(R):
+            list.append(i)
+
+        
+    # [3] 리스트를 문자열로 변환 후 공백 제거
+    P = ("".join(list)).strip()
+    return P
+
+
+
+# [0] 변수 선언부
+T    = input()
+list = []
+
+# [4] 출력
+P = NewString(T, list)
+
+if P == 0:
+    pass
+else:
+    print(P)
