@@ -28,6 +28,7 @@
 ## 발표 자료
 1. [OT](https://docs.google.com/presentation/d/1Qodqk9NwHwrSYYEUn2w1IB5L18KZgAQS/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
 2. [시간복잡도](https://docs.google.com/presentation/d/1_9UPTXHdE1j8qoh8ftdLSSHJ--jGC0lN/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
+3. [정렬 알고리즘](https://docs.google.com/presentation/d/1mtBrNgDIL6ouxzO6DoTKU34pYs0dzc8k/edit?usp=sharing&ouid=102853059011562877491&rtpof=true&sd=true)
 
 
 ## 발표 영상
