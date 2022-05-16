@@ -8,3 +8,5 @@ for i in range(len(B),0,-1):
   squared += 1
 
 print(sum)
+
+
