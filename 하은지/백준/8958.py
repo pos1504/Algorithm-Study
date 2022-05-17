@@ -16,7 +16,7 @@ for i in range(T):
         if (problem[j] == 'O'):
             list.append(problem[j])
 
-       # (입력 받은 값을 차례로 읽는 중) X를 만나면, 그 전에 (채점)결과 합산을 구함  
+       # (입력 받은 값을 차례로 읽는 중) X를 만나면, 그 전에 (채점)결과 합산을 구함.  
         else:
             for j in range(len(list)):
                 sum += (j+1)
